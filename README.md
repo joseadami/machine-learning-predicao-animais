@@ -1,2 +1,1 @@
-# machine-learning-predicao-animais
-machine-learning-predicao-animais
+# Machine Learning para identificar animals utilizando dados de arrays
